@@ -58,10 +58,6 @@ def add_characters
    epic_tragedy[:additional_characters] = []
 
 
-
-
-
-
    # After your code, the following line will return the altered hash
    epic_tragedy
 end
